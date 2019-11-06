@@ -1,0 +1,16 @@
+O alfabeto BRaille, assim como o Alfabeto tinta tem 26 letras. Porém, para a música,
+existem o acréssimo de algumas letras que não existem na lingua portuguesa, mas todas 
+estão dentro das 64 possibiliades do alfabeto Braille. Abaixo temos vários botões rádio
+(botões onde assim que o cursor passa sobre eles, eles emitem algum som, sem a 
+necessidade de serem clicados) que falaram a letra e os ponto correspondentes de cada uma.
+
+O alfabeto Braille Segue uma lógica para as suas letras. Os pontos 1,2,4 e 5, os pontos
+superiores e médios, sempre vão exercutar uma sequencia de dez simbolos
+que você deverá perceber. Assim que eles executam essa sequencia de dez simbolos,
+o ponto 3 fia em alto relevo. 
+
+Ai os pontos 1,2,4,5 repetem a mesma sequencia de 10 simbolos,aí, Os ponto 3 e 6,
+ os inferiores, ficam em alto relevo. Dai os pontos de cima executam
+a mesma sequencia de 10 simbolos. Depois o 6 fica em alto relevo e o ponto 
+3 fica em baixo relevo.Os simbolos de cima repetem a sequencia de 10 símbolos, 
+mas essa ultima não completada. A partir disso forma-se o alfabeto braille.

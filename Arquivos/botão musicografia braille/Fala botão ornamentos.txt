@@ -1,0 +1,13 @@
+    >>>>>>>>>>>>>>>>>>> Ornamentos <<<<<<<<<<<<<<<<<<<<<
+
+ São notas ou grupos de notas que se juntam a uma nota principal, para dar-lhe maior realce, ou simplesmente para ornamentá-la.
+ 
+ As notas do ornamento são executadas rapidamente, e o valor delas é tirado da nota principal. O sinal que representa o ornamento é colocado antes da nota principal.
+ 
+ Os ornamentos mais comuns são: Apogiatura Breve - pontos 2 e 6. Apogiatura Longa - duas células; a primeira com o ponto 5, a segunda com os pontos 2 e 6.
+ 
+ Mordente Superior - duas células; a primeira com o ponto 2, a segunda com os pontos 2, 3 e 5. Mordente Inferior - três células; a primeira com o ponto 5, a segunda com os pontos 2, 3 e 5, e a terceira com os pontos 1, 2 e 3.
+ 
+ Grupento Superior - duas células; a primeira com o ponto 6, a segunda com os pontos 2, 5 e 6. Grupento Inferior - pontos 2, 5 e 6.
+ 
+ Trinado - pontos 2, 3 e 5. Arpejo - duas células; a primeira com os pontos 3, 4 e 5, a segunda com os pontos 1 e 3. Glissando - duas células; a primeira com o ponto 4, a segunda com o ponto 1.

@@ -1,0 +1,29 @@
+>>>>>Botão Música<<<<<
+
+As principais características dos sons são:
+ -> intensidade - é a propriedade que permite distinguir sons
+fortes e sons fracos, representada pelos sinais de dinâmica.
+ (reproduzir exemplo)
+ -> duração - é a propriedade que nos permite distinguir sons
+longos e sons curtos, representada pelas figuras de nota.
+ (reproduzir exemplo)
+ -> altura - é a propriedade que nos permite distinguir sons
+graves, médios e agudos,representada pelas claves e notas.
+ (reproduzir exemplo) 
+ -> timbre - é a propriedade que nos permite reconhecer sua
+origem.
+ (reproduzir exemplo)
+
+ Os elementos que constituem a música são:
+ -> Melodia: combinação dos sons sucessivos, é a concepção
+horizontal da música
+ (reproduzir exemplo)
+ -> Harmonia: é a combinação dos sons simultâneos, é a concep-
+ção vertical da música
+ (reproduzir exemplo)
+ -> Contraponto: é o conjunto de melodias dispostas em ordem
+simultânea, é a concepção ao mesmo tempo horizontal e vertical
+da música
+ (reproduzir exemplo)
+ -> Rítmo: é a combinação dos valores tempo
+ (reproduzir exemplo)

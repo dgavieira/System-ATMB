@@ -1,0 +1,15 @@
+>>>>>>>>>>>>>>> Sinais de Intensidade <<<<<<<<<<<<<<<<
+ 
+ A intensidade do som, isto é, a variação dos sons fortes e fracos, constitui
+a dinâmica da música. Indica-se a intensidade dos sons por palavras italianas
+ou por sinais gráficos. Eis as palavras mais usadas:
+ > Piano - suave
+ > Pianíssimo - suavíssimo
+ > Forte
+ > Mezzo-Forte - meio forte
+ > Mezzo-piano - meio suave
+ > Morrendo - desaparecendo o som
+ > Diminuindo
+ > Smorzando - Extinguindo o som
+ > Rinforzando - reforçando o som
+ > Crescendo

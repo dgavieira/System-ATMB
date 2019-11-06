@@ -1,0 +1,86 @@
+>>>>>>>>>>>>>>>>>>>Botão Notação Musical e Duração <<<<<<<<<<<<<<<<<<<<<<
+
+ Notas e Duração 
+ No sistema de musicografia braille, a representação das notas em colcheia
+é considerada básica, porque com base nela se forma a representação de
+todas as outras notas musicais. As notas em colcheia de Dó a Si são repre-
+sentadas em braille pelos sinais das letras de d a j. Ou seja:
+ > Dó - pontos 1, 4 e 5
+ > Ré - pontos 1 e 5
+ > Mi - pontos 1, 2 e 4
+ > Fá - pontos 1, 2, 4 e 5
+ > Sol - pontos 1, 2 e 5
+ > Lá - pontos 2 e 4
+ > Si - pontos 2, 4 e 5
+ As notas em semínima são representadas com os mesmos sinais das notas em
+colcheia, acrescentando-lhes o ponto 6. Ou seja:
+ > Dó - pontos 1, 4, 5 e 6
+ > Ré - pontos 1, 5 e 6
+ > Mi - pontos 1, 2, 4 e 6
+ > Fá - pontos 1, 2, 4, 5 e 6
+ > Sol - pontos 1, 2, 5 e 6
+ > Lá - pontos 2, 4 e 6
+ > Si - pontos 2, 4, 5 e 6
+ As notas em mínima são representadas com os mesmos sinais das colcheias,
+acrescentando-lhes o ponto 3. Ou seja:
+ > Dó - pontos 1, 3, 4 e 5
+ > Ré - pontos 1, 3 e 5
+ > Mi - pontos 1, 2, 3 e 4
+ > Fá - pontos 1, 2, 3, 4 e 5 
+ > Sol - pontos 1, 2, 3 e 5 
+ > Lá - pontos 2, 3 e 4
+ > Si - pontos 2, 3, 4 e 5
+ As pausas são apresentadas a seguir:
+ Semibreve: pontos 1, 3 e 4
+ Mínima: pontos 1, 3 e 6
+ Semínima: pontos 1, 2, 3 e 6
+ Colcheia: pontos 1, 3, 4 e 6
+ Semicolcheia: pontos 1, 3 e 4
+ Fusa: pontos 1, 3 e 6
+ Semifusa: pontos 1, 2, 3 e 6
+ Os sinais das semibreves são os mesmos que representam as semicolcheias;
+os sinais das Mínimas são os mesmos que os das Fusas; os sinais das Semí-
+nimas são os mesmos que representam as Semifusas.
+ São os compassos que identificam os valores das notas representadas por
+sinais iguais.
+ Quando em um compasso não é possível determinar com precisão o valor de
+uma nota ou pausa ocorre o sinal de separação de valores, ou os sinais de
+maior ou menor, dependendo dos casos.
+ O sinal separador de valores é representado por duas célular braille. A
+primeira célula o sinal de palavra (pontos 1, 2 e 6); a segunda célula tem 
+apenas o ponto 2.
+ O sinal de separação entre grupos rítmicos é representado pelo sinal de 
+palavra seguido por um ponto.
+ O sinal de separação de valor maior é representado por três células: a
+primeira tem os pontos 4 e 5, a segunda é o sinal de palavra e a terceira
+tem o ponto 2.
+ O sinal de separação de valor menor é representado pr três células: a 
+primeira tem o ponto seis, a segunda é o sinal de palavra e a terceira é
+o ponto 2.
+
+ Claves
+ As claves são compostas por mais de uma célula braille. A primeira é sempre
+o sinal de número, composto pelos pontos 3, 4 e 5; a última é o L do alfabeto,
+composto pelos pontos 1,2 e 3.
+ A clave de Sol na 2ª linha é escrita com 3 células braille. A segunda é
+composta pelos pontos 3 e 4.
+ A clave de fá na 4ª linha também é escrita com 3 células. A segunda tem os 
+pontos 3, 4, 5 e 6.
+ A clave de Dó na 3ª linha, como as duas anteriores, é composta por três
+células. A segunda tem os pontos 3, 4 e 6.
+ A clave de Sol na 1ª linha é composta por 4 células e a diferença desta
+para a da 2ª linha é que se insere uma célula antes da última que tem o
+ponto 4 para indicar a linha.
+ A clave de Fá na 3ª linha também é escrita com quatro células. A segunda 
+tem os pontos 3, 4 e 6; e a terceira tem os pontos 4, 5 e 6.
+ A clave de Dó na 1ª linha é escrita igual a de Dó na 3ª linha, mas
+acrescenta-se uma célula antes da última, a qual tem o ponto 4 para indicar
+a linha.
+ A clave de Dó na 2ª linha é igual a da 1ª linha, o que troca é a célula
+que indica a linha, a qual agora tem os pontos 4 e 5.
+ A clave de Dó na 4ª linha também troca apenas a célula que indica a linha,
+a qual passa a ter apenas o ponto 5.
+
+ Armadura de Clave
+ É o nome que se dá ao número de acidentes, os quais
+determinam as notas e alterações dentro da escala.

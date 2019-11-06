@@ -1,0 +1,34 @@
+>>>>>>>>>>>>>>>>>>> Intervalos e Acordes<<<<<<<<<<<<<<<<<
+
+ Intervalos
+ Em musicografia braille, os intervalos harmônicos são representados por uma série de sinais que indicam a distância exata entre as suas notas. A primeira nota é escrita na sua forma real, enquanto que a outra é representada pelo sinal de intervalo. A partir da nona, décima primeira, etc. deve preceder o sinal de altura. Os sinais de intervalo estão no texto a seguir:
+ 
+ Segunda - A segunda nota é representada um tom acima da primeira . O sinal é composto pelos pontos 3 e 4.Terça - A segunda nota é representada dois tons acima da primeira. O sinal é composto pelos pontos 3, 4 e 6.Quarta - A segunda nota é representada três tons acima da primeira. O sinal é composto pelos pontos 3, 4, 5 e 6.
+ 
+ Quinta - A segunda nota é representada quatro tons acima daprimeira. O sinal é composto pelos pontos 3 e 5.Sexta - A segunda nota é representada cinco tons acima da primeira. O sinal é composto pelos pontos 3, 5 e 6.Sétima - A segunda nota é representada seis tons acima da primeira. O sinal é composto pelos pontos 2 e 5. Oitava - A segunda nota é representada sete tons acima da primeira. O sinal é composto pelos pontos 3 e 6.
+ 
+ Quando um intervalo harmônico ultrapassa a oitava, a segunda nota deve levar o seu respectivo sinal de oitava. Os sinais dos intervalos representam as notas e por esse motivo podem ser precedidos pelos acidentes.Numa sequência de intervalos harmônicos iguais, o sinal de intervalo deverá ser duplicado após a primeira nota e colocado uma só vez antes da última.
+
+ Acordes
+ 
+ Um grupo de mais de duas notas simultâneas é chamado de Acorde. Em musicografia braille, a primeira nota de um acorde é escrita na sua forma real, enquanto as outras são representadas pelos sinais dos intervalos.
+
+ Ligadura de Acorde
+ 
+ Funciona para os intervalos harmônicos, da mesma forma como a ligadura de prolongação funciona para as notas sucessivas. É representada por um sinal composto de duas células; a primeira com os pontos 4 e 6, a segunda com os pontos 1 e 4.
+
+ Em acorde
+ 
+ Quando, em um compasso, duas ou mais partes tiverem valores diferentes a serem executado simultaneamente, em musicografia braille essas partes são identificadas pelo sinal Em Acorde. Esse sinal é composto de duas células; a primeira com os pontos 1, 2 e 6, a segunda com os pontos 3, 4 e 5. É colocado entre as notas a serem executadas simultaneamente.
+ 
+ O Em Acorde pode ser Parcial, quando apenas uma fração do compasso é dividida em partes simultâneas com valores diferentes.Neste caso, emprega-se o sinal de separação, para separar da parte subdividida do compasso.O Em Acorde Parcial é representado por duas células; a primeira com o ponto 5, e a segunda com o ponto 2.A Separação é representada por duas células a primeira com os pontos 4 e 6, a segunda com os pontos 1 e 3.
+
+ Sinais de Notas Duplas
+ 
+ Na música em tinta, muitas vezes a nota aparece com dois valores diferentes, isto é, um maior e o outro menor. Isto quer dizer que enquanto ela fica sustentada pelo valor maior, a mesma nota se junta às outras por seu valor menor.
+ 
+ Em musicografia braille, a nota é escrita no seu valor menor e o sinal de nota dupla determina o tempo que ela deve durar no seu valor maior.
+
+ Semibreve - Duas células; a primeira com os pontos 4, 5 e 6, a segunda com o ponto 3. Mínima - Duas células; a primeira com os pontos 4, 5 e 6, a segunda com o ponto 1. Semínima - Duas células; a primeira com os pontos 4, 5 e 6, a segunda com os pontos 1 e 2.Colcheia - Duas células; a primeira com os pontos 4, 5 e 6, a segunda com os pontos 1, 2. 
+ 
+ Semicolcheia - Duas células; a primeira com os pontos 4, 5 e 6, a segunda com os pontos 1, 2 e 3. Fusa - Duas células; a primeira com os pontos 4, 5 e 6, a segunda com o ponto 2.O sinal é colocado depois da nota.Os sinais de Notas Duplas podem ser seguidos do ponto de aumento.

@@ -1,0 +1,62 @@
+A cela braille constitui a menor unidade do sistema braille, um sistema tátil de
+leitura. Através dela é possível escrever letras e sinais gráficos.
+Com um conjunto delas podemos escrever números e também sinais gráficos.
+
+Ela é composta de seis pontos, sendo duas colunas com 3 pontos cada.
+Se você apontar os três dedos do meio das suas mãos para a frente com os das pontas
+abaixados e aproximar os da mão esquerda com a da direita sem enconta-los, terá uma
+noção de uma cela Braille.
+
+Esses seis pontos podem ser combinados de difererntes formas sendo que alguns ficam em 
+alto relevo e ouitros em baixo relevo,ou seja, perptiveis tatilmente, tendo a possibilidade
+de todos estarem em alto relevo, o caso do É agudo. Essa estrutura lhe da 64 possibilidades 
+de combinações, contando com a cela vazia, ou seja, com os seis  pontos em baixo relevo.
+
+A cela Braille oficial para textos meder 0,9 cm por 0,6 cm. Porém, por motivos didaticos 
+e para melhor adaptação até a cela usada em textos, as escolas usam celas didáticas com
+tamanhos muito maiores que o normal.
+
+Os pontos são ordenados da seguinte forma. O ponto supeior esquerdo é o ponto numero 1.
+O ponto médio da esquerda é o ponto 2. O ponto inferior da esquerda é o ponto numero 3.
+O ponto superior da direita é o ponto 4.O ponto médio da direito é o ponto de numero 5.
+O ponto inferior da direita é o ponto de número 6.
+
+Para a Escrita braille ,Hoje em dia, existem uma série de rescursos. Desde os tardicionais 
+como a Regulete e a Máquina perkins, até os softwares de computador em conjunto a impressoras
+Braille.
+
+No metodo da regulete é usado uma haste retangular, podendo ser de madeira ou metais, com uma
+de furos pequenos na sua superfície, onde, fazendo uma pressão com uma caneta por exemplo, surja 
+uma Elevação no outro lado que fica tatilmente perceptível.Por isso que na escrite através da
+regulete, é necessário se escrever da direita para a esquerda, como se a cela BRaille estivesse
+ao inverso.
+
+A maquina perquins é uma máquina com seis teclas principais e trÊs secundárias. Cada tecla corresponde 
+a um tempo da matriz  Braille. Para escrever nela, é necessário depositar os dedos do meio da mão 
+esquerda nas três teclas da esquerda, e os três dedos da mãos direita no lado direito. O dedo indicador 
+esquerdo correponde ao ponto 1. O dedo Médio esquerdo é o ponto 2. O dedo anelar esquerdo é o ponto 3. 
+O dedo indicador direito é o ponto 4. O dedo médio da direita é o ponto 5 e o dedo médio direita é 
+o ponto 6. 
+
+Para escrver uma letra, ou simbolo na maquina perquins, é necesário pressionar todos os pontos 
+que você deseja que fiquem em alto relevo AO MESMO TEMPO.Por exemplo, se você quiser digitar a letra C,
+Terá que pressionar as teclas do dedo indicador esquerdo(o ponto 1) e a do indicador direito(o ponto 4)
+ao mesmo tempo. 
+
+Um dos botões secundários serve para criar os espaços entre as palavras, é o botão de espaço. Otro,
+o mais a direita de todos é responsável por voltar espaços na escrita, ou seja, retornar a alguma 
+letra anterior. O mais a esquerda serve para pular uma linha.E existe um regulador móvel ao lado 
+da máquina para girar a folha até o ponto desejado.
+
+Os computadores hoje podem ser adaptados para funcionarem como uma máquina perquins. Alguns programas
+adaptam as dua teclas marcadas da perte de letras do teclado para serem as teclas dos ponto 1 e 4 da máquina 
+perquins. Assim as duas teclas a esquerda da tecla F, junto com a tecla F, se tornam os espaços para colocar
+a mão esquerda da máquina perkins. A letra J do teclado, junto das duas teclas a sua direita se tornam
+os teclas da mão direita da máquina perkins.
+
+existem softiuérs como o DOSVOX e o Braille Facil, ambos desenvolvidos pelo mestre Antônio Borges da UFRJ,
+que permitem que o deficiente visual use o teclado como uma pessoa vidente, pois eles falam a tecla
+que foi digitada. Além de qu o BRaille fácil traduz qualquer texto escito em tinta par ao BRaile e
+permite que o texto seja impresso. 
+
+

@@ -1,0 +1,41 @@
+>>>> Notação Musical e Duração <<<<
+ 
+ Notas
+ Para representar os sons, usa-se as notas musicais. O sistema musical
+tem 12 sons, dos quais 7 são notas e 5 são acidentes.
+ As notas são: Dó, Ré, Mi, Fá, Sol, Lá, Si.
+ (reproduzir o som de cada nota depois de dizer o nome dela)
+ Esta sequência organizada de notas é chamada de escala, que poderá
+ser ascendente ou descendente.
+ (reproduzir uma escala ascendente e descendente)
+   
+ Claves
+ As notas são escritas numa pauta que, para os videntes, é composta de
+5 linhas e quatro espaços.
+ As sete notas musicais que já citamos, só receberão nome na escrita,
+como sua altura, se tivermos no início da pauta um sinal chamado clave.
+ As claves são: 
+ > Clave de Sol - usada para sons mais agudos, como o violão, e 
+determina a posição da nota Sol.
+ > Clave de Fá - usada para sons mais graves, como a mão esquerda
+do piano, e determina a posição da nota Fá.
+ > Clave de Dó - usada para sons médios, geralmente a voz humana, e
+determina a posição da nota Dó.
+
+ Valores
+ A música é representada pelo equilíbrio de sons e silêncios. Ambos têm
+durações diferentes e são representados por sinais denomidos valores.
+ Os valores que representam a duração dos sons musicais são chamados de
+figuras. Os que representam as ausências de sons são chamados de pausas.
+ A unidade de medida da música é o tempo, e cada um corresponde a uma
+pulsação.
+ Cada figura de som tem sua respectiva pausa, que lhe corresponde ao mesmo
+tempo de duração.
+ As figuras de som e pausa são:
+ > Semibreve = equivale a 4 tempos (reproduzir um metrônomo)
+ > Mínima = equivale a 2 tempos (reproduzir um metrônomo)
+ > Semínima = equivale a 1 tempo (reproduzir um metrônomo)
+ > Colcheia = equivale a 1/2 tempo (reproduzir um metrônomo)
+ > Semicolcheia = equivale a 1/4 tempo (reproduzir um metrônomo)
+ > Fusa = equivale a 1/8 tempo (reproduzir um metrônomo)
+ > Semifusa = equivale a 1/16 tempo (reproduzir um metrônomo)            

@@ -1,0 +1,22 @@
+>>>>>>>>>>>>>>>> Acidentes <<<<<<<<<<<<<<
+
+ Dá-se o nome de acidente ao sinal que se coloca antes de uma nota para modi-
+ficar-lhe a entoação.
+ A entoação das notas conforme o sinal de alteração, poderá ser elevada ou
+abaixada em ou dois semitons. São os seguintes:
+ Sustenido - Eleva um semitom
+ Bemol - Abaixa um semitom
+ Dobrado Sustenido - Eleva dois semitons
+ Dobrado Bemol - Abaixa dois semitons
+ Bequadro - Anula o efeito de qualquer um dos outros anteriores, fazendo a no-
+ta voltar à entoação natural.
+ Os acidentes podem ser fixos, ocorrentes ou de precaução.
+ Fixos são aqueles que fazem parte da armação da clave. Seu efeito vale por
+todo o trecho musical. (TE)
+ Ocorrentes são aqueles que aparecem no decorrer de um trecho musical predomi-
+nando, somente, no compasso em que são escritos. (TE)
+ De Precaução são aqueles que aparecem a fim de evitarem erros na leitura rá-
+pida. Normalmente são grafados entre parênteses. (TE)
+
+
+ 

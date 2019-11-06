@@ -1,0 +1,27 @@
+>>>>>>>>>>>>>>>>>>>>> Agrupamento de Valores<<<<<<<<<<<<<<<<<
+ 
+ Em determinadas sequências de notas em Semicolcheias, Fusas ou
+Semifusas, pode ser adotada uma maneira especial de escrita, a 
+qual torna a leitura da música braille mais fácil. Essa maneira
+de escrita chama-se Agrupamento de Valores e consta do seguinte:
+a primeira nota de cada tempo é escrita com o sinal representan-
+do o seu valor real, enquanto as outras notas são escritas em 
+colcheias, apesar de não serem.
+ O primeiro valor de um Agrupamento pode ser uma Pausa, porém se
+a mesma estiver em outra parte do tempo, o Agrupamento não pode-
+rá ser feito.
+ Não pode ser empregado o Agrupamento de Valores, quando o Grupo
+de Valores iguais for seguido de colcheias verdadeiras, dentro 
+do mesmo compasso.
+
+ Hífen Musical
+ Serve para cortar o compasso no final de uma linha, para que o
+seu restante continue na linha seguinte. É representado pelo si-
+nal composto do ponto 5, colocado após o último sinal do final
+da linha.
+ Não se deve dividir um tempo ao meio, quando da passagem de uma
+parte do compasso para a outra linha.
+ O Hífen Musical pode cortar o compasso no meio da linha, para a
+colocação de palavras ou para a mudança da fórmula de compasso;
+neste caso, deve haver um outro espaço depois da palavra ou fór-
+mula de compasso.

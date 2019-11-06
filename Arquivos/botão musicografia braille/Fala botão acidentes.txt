@@ -1,0 +1,8 @@
+>>>>>>>>>>>>>>>>>>>>>> Acidentes <<<<<<<<<<<<<<<<<<<<<<<
+
+ Os símbolos de acidentes são colocados antes das notas as quais se desejam modificar. Sustenido - pontos 1, 4 e 6.
+ 
+ Dobrado sustenido - duas vezes o símbolo anterior. Bemol - pontos 1, 2 e 6. Dobrado bemol - duas vezes o símbolo anterior. Bequadro - pontos 1 e 6.
+ 
+
+ 

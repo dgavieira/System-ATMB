@@ -1,0 +1,70 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Articulações<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+ Ligadura de Prolongação
+ A ligadura é representada por duas células. A primeira tem apenas o ponto 4,
+a segunda tem os pontos 1 e 4. O sinal de ligadura é colocado entre as
+células das notas que se deseja ligar.
+ 
+ Ponto de aumento
+ O ponto de aumento é representado pelo ponto 3 após a nota ou a pausa que se
+deseja aumentar. No caso de ponto duplo, coloca-se duas células, uma para
+cada ponto.
+ 
+ Fermata
+ A fermata é representada por duas células que são colocadas depois da nota
+que se deseja alterar. A primeira célula tem os pontos 1, 2 e 6; a segunda
+tem os pontos 1, 2 e 3.
+
+ Ponto de Diminuição
+ O ponto de diminuição é colocado antes da nota e é representado pelos pontos
+2, 3 e 6. Quando usado para mais de três notas, usamos duas vezes antes do
+início da primeira nota, e repete-se o sinal uma vez antes da última nota.
+
+ Ligadura simples e dupla
+ Na ligadura simples com notas diferentes, usamos os pontos 1 e 4 entre as
+notas que se deseja ligar.
+ Quando a ligadura atingir mais de três notas num compasso, repetimos os
+pontos 1 e 4, depois da primeira nota e antes da última nota a ser ligada.
+Chamamos de ligadura dupla.
+ 
+ Ligadura de fraseado
+ As melodias podem conter pequenos trechos musicais com várias notas 
+diferentes ligada chamadas Frases Musicais. São determinadas por uma
+Ligadura de Fraseado.
+ No início da Ligadura de Fraseado colocamos, antes da primeira nota, duas
+células, uma com pontos 5 e 6 e outra com os pontos 1 e 2, e depois da
+última nota, outras duas células, uma com os pontos 4 e 5 e outra com os
+pontos 2 e 3.
+
+ Tenuta
+ É representada pelo sinal composto de duas células, a primeira com os pontos
+4, 5 e 6; a segunda com os pontos 2, 3 e 6, ambas colocadas antes da nota. Numa
+sequência de mais de três notas, a Tenuta deve ser duplicada antes da primeira
+nota e colocada uma só vez antes da última.
+ 
+ Staccato
+ O mesmo que o ponto de diminuição.
+ Staccato Doce - é representado pelo sinal de staccato, colo-
+cado antes da nota, e pelo sinal de ligadura, colocado depois
+dela.
+ Staccatíssimo - é representado por um sinal composto de duas
+células; a primeira tem o ponto 6 e a segunda tem o sinal de
+staccato.
+ Observação: Numa sucessão de mais de quatro notas, o Stacca-
+tíssimo deve ser duplicado antes da primeira nota e colocado
+uma vez antes da última.
+ Smorzando - indica que a nota deve ser executada com maior
+acentuação do que a nota com Tenuta. É representado pelo sinal
+composto por duas células; a primeira tem os pontos 4 e 6, a
+segunda tem o sinal de staccato. Numa sequência de mais de
+três notas, deve ser duplicado antes da primeira nota e colo-
+cado uma só vez antes da última.
+ Martelato - Indica que a nota deve ser executada rude-
+mente, curta e seca. É representado pelo sinal composto por
+duas células; a primeira com os pontos 5 e 6, a segunda com
+o sinal de staccato. Numa sequência de mais de três notas, 
+deve ser duplicado antes da primeira nota e colocado uma 
+só vez antes da última.
+ Sforzando - Indica que a nota deve ser executada com muita 
+acentuação. É representado pelas letras "s, f, z" precedidas
+do sinal de palavra.

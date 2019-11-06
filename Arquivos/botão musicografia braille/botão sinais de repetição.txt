@@ -1,0 +1,40 @@
+>>>>>>>>>>>>>>>>>>>>>>> Botão Sinais de Repetição <<<<<<<<<<<<<<<<<<<<<<<<<
+ 
+ Ritornello
+ O Ritornello é escrito por dois sinais, entre os quais fica compreendido o
+trecho a ser repetido.
+ Sinal para o início: é escrito com duas células, a primeira é composta pe-
+los pontos 1, 2 e 6.
+ Sinal para o final: também escrito com duas células, a primeira é igual à
+primeira do sinal para o início; e a segunda é composta pelos pontos 2 e 3.
+
+ Primeira e Segunda Vez
+ O sinal de primeira vez é representado por duas células: a primeira tem o
+sinal de número e a segunda tem apenas o ponto 2.
+ O sinal de segunda vez é representado com a célula do sinal de número e 
+uma célula com os pontos 2 e 3.
+
+ Segno
+ O sinal de segno é representado por uma célula com os pontos 3, 4 e 6. O
+final do trecho a ser repetido pelo segno é indicado por uma célula com
+os pontos 1 e 6 após a última nota.
+ A chamada para a volta ao segno é indicada pelo sinal composto pela célu-
+la com os pontos 3, 4 e 6, precedido pelo ponto 5 e seguido pelo número
+de compassos que devem ser repetidos.
+ 
+ Sinal de Repetição
+ A repetição é representada pelo sinal com os pontos 2, 3, 5 e 6. É coloca-
+do após a nota que se deseja repetir. Para repetir o compasso, coloca-se
+um espaço entre a última nota e o sinal de repetição.
+ Quando dois ou mais compassos de um trecho musical forem repetidos, um
+número colocado entre espaços indica quantos dos últimos compassos entrarão
+nessa repetição. Não esqueça no sinal de número para a indicação.
+ Quando um determinado número de compassos de um trecho musical deve ser
+repetido, emprega-se a forma de repetição com números. Por exemplo, a célu-
+la de número seguida pelo número 8, depois por outra célula de número e o
+número 5, quer dizer de "oito, cinco"; isto significa que se deve voltar
+oito compassos, executar os cinco primeiro, saltar os três seguintes e
+continuar a execução do nono em diante.
+ O compasso em espera é representado pela pausa da semibreve. A indicação
+de mais de três compassos em espera é feita com um número seguido imedia-
+tamente de uma só pausa.

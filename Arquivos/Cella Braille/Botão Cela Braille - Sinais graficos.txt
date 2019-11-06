@@ -1,0 +1,5 @@
+Claro que no Sistema BRaille, não poderiam faltar os sinais de pontuação.
+A maioria deles é composto por uma cela, mas existem outros que usam mais de
+uma cela para serem representádos. Os sinais graficos, os que alteram a tonalidade
+das vogais, são embutidos conjunto as letras, portanto sem necessidade de representação
+individual. Abaixo os Botões rádio irão falar os sinais gráficos e seus pontos. 

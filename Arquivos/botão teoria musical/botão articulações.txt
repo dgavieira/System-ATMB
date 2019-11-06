@@ -1,0 +1,69 @@
+>>>>>>>>>> Botão Articulações<<<<<<<<<<<
+
+ Articulações são as diferentes maneiras de se emitirem as notas, podem ser
+ligadas ou destacadas.
+
+Ligaduras
+
+ Ligaduras de Prolongamento é uma linha usada entre duas ou mais notas de
+mesmo nome e altura para somar-lhes os valores. (reproduzir som)
+ Ligadura de Expressão ou Legato é uma linha colocada entre um  grupo de
+notas de nomes ou alturas diferentes que serão pronunciadas sem interrupção
+na pronúncia dos sons. (reproduzir som)
+
+Ponto de Aumento
+ 
+ Um ponto colocado à direita de uma figura serve para aumentar a metade do
+valor de duração dessa figura. É por isso chamado de Ponto de Aumento.
+ A exemplo, tem-se uma mínima pontuada que vale uma mínima mais uma semínima,
+já que o ponto aumenta metade do valor da figura.
+ As pausas também podem ser pontuadas.
+
+Duplo Ponto de Aumento
+ 
+ Dois pontos podem ser colocados à direita da nota ou pausa. O primeiro ponto
+acrescenta metade do valor da figura e o segundo, a metade do valor do
+primeiro. A exemplo, tem-se a mínima duplamente pontuada que vale uma mínima
+mais uma semínima e uma colcheia.
+
+Fermata
+ 
+ Sinal usado para indicar que uma nota, acorde ou pausa, assim marcado, 
+deve ser mantido por mais tempo do que seu valor de tempo normal. O tempo 
+durante o qual será mantido é determinado pelo executante.
+ Quando com uma pausa, leva o nome de suspensão.
+ Quando uma fermata é colocada sobre a barra do compasso, quer indicar uma
+pequena interrupção entre os dois compassos.
+ 
+Ponto de Diminuição
+
+ O ponto de diminuição diminui metade do valor da nota. A exemplo, tem-se
+uma colcheia com um ponto de dimuição que passa a valer uma semicolcheia.
+ 
+Legato
+ 
+ As notas se sucedem ligadas, conservando seu valor. Indica-se pela ligadura
+ou pela palavra legato.
+
+Non Legato
+ 
+ As notas não seriam ligadas, porém não totalmente destacadas. Vem indicado
+pelas palavras non legato.
+
+Staccato
+
+ Staccato é a instrução para indicar as notas assim marcadas (com pontos)
+devem ser tocadas de modo ligeriramente mais breve que seu valor de tempo
+normal, com pequena pausa entre elas. Com isso se separam uma das outras as
+notas em staccato.
+ Staccato Simples é representado por pontos com as notas.(reproduzir som)
+ Staccato Brando ou Meio Staccato é indicato pelo ponto e pela ligadura.
+(reproduzir som)
+ Grande Staccato é indicado pelo parênteses na nota, deve ser executado um
+som seco, martelado. (reproduzir som)
+
+Tenuta
+
+ Instrução usada para indicar que uma anota ou acorde deve ser sustentada por
+toda sua duração e, por vezes, ligeiramente mais que seu estrito valor de
+tempo. (reproduzir som) 

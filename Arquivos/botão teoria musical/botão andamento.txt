@@ -1,0 +1,63 @@
+>>>>>>>>>>>>>> Andamento <<<<<<<<<<<<<
+
+ É o movimento rápido ou lento de execução da música, guardando sempre a pre-
+cisão dos tempos do compasso. Consideram-se três tipos de andamento.
+
+Andamento Lento
+ Largo - O mais lento
+ Larghetto - Um pouco menos lento
+ Lento
+ Adágio - Um pouco mais movido que o lento
+
+Andamento Moderado
+ Andante - Mais movido que o Adágio
+ Andantino - Pouco mais rápido que o anterior
+ Moderato - Moderado
+ Allegretto - Mais rápido que o moderado
+ 
+Andamento Rápido
+ Allegro - Rápido
+ Vivace - Ainda mais rápido
+ Vivo - Bastante movido
+ Presto - Muito rápido
+ Prestíssimo - O mais rápido de todos
+
+ Rubato
+ Para indicar certa liberdade no valor das figuras, sem contudo, alterar a
+divisão do compasso.
+
+ Metrônomo
+ Instrumendo que permite a especificação do andamento de uma peça musical. O
+compositor ou editor que deseje numa partitura o andamento da peça escreve no
+cabeçalho as letras MM (Metrônomo de Maelzel), seguidas de uma semínima e de
+um número. O número indica a quantidade de tempos de semínima por minuto.
+ Só o metrônomo poderá indicar, com exatidão absoluta, o andamento. A veloci-
+dade das batidas do metrônomo vai de 40 a 120. 
+
+ Altura das Oitavas
+ A altura das notas, desde a mais grave até a mais agu-
+da, é indicada pelos sinais de oitava.
+ Os sinais das Oitavas são sete e correspondem extamen-
+te às sete oitavas no teclado do piano. Cada uma das se-
+te oitavas do piano abrange as sete notas.
+ A representação a seguir é para a partitura em tinta.
+ As três primeiras oitavas são escritas com a clave de
+fá, as outras são com a clave de sol.
+ A primeira oitava tem o Dó abaixo da quinta linha su-
+plementar infeiror, de cima para baixo.
+ A segunda oitava tem o Dó na segunda linha suplementar 
+inferior, de cima para baixo.
+ A terceira oitava tem o Dó no espaço acima da segunda 
+linha, de baixo para cima.
+ A quarta oitava tem o Dó na primeira linha suplementar 
+inferior, de cima para baixo.
+ A quinta oitava tem o Dó no espaço acima da terceira li-
+nha de baixo para cima.
+ A sexta oitava tem o Dó na segunda linha suplementar su-
+perior de baixo para cima.
+ A sétima oitava tem o Dó no espaço acima da quinta linha
+suplementar superior de baixo para cima.
+ Nos pianos, existem ainda um Lá e um Si abaixo do Dó da
+primeira oitava e um Dó acima do Si da sétima oitava.
+  
+

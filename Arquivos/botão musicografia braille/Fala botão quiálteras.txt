@@ -1,0 +1,13 @@
+>>>>>>>>>>>>>>>>>>>>>>>>Quiálteras<<<<<<<<<<<<<<<<<<<<<
+
+ Na musicografia braille, o sinal de quiáltera vem antes das notas que formam a quiáltera. Quiáltera de duas - sinal representado por três células,a primeira é o sinal de terceira oitava, a segunda é o número dois um ponto abaixo, e a terceira é um ponto.
+ 
+ Tercina - sinal representado por três células,a primeira é o sinal de terceira oitava, a segunda é o número três um ponto abaixo, e a terceira é um ponto. Esta também pode ser representada por uma célula com os pontos 2 e 3.
+ 
+ Quiáltera de quatro - sinal representado por três células,a primeira é o sinal de terceira oitava, a segunda é o número quatro um ponto abaixo, e a terceira é um ponto.
+ 
+ Quiáltera de cinco - sinal representado por três células,a primeira é o sinal de terceira oitava, a segunda é o número cinco um ponto abaixo, e a terceira é um ponto.
+ 
+ Sestina - sinal representado por três células, a primeira é o sinal de terceira oitava, a segunda é o número seis um ponto abaixo, e a terceira é um ponto.
+ 
+ Grupo irregular de sete notas - sinal representado por três células,a primeira é o sinal de terceira oitava, a segunda é o número sete um ponto abaixo, e a terceira é um ponto. Assim em diante.

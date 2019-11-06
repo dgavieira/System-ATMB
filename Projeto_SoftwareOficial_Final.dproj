@@ -1,0 +1,202 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{DFB200AF-3B29-4CA8-AE75-3CF4F589FB89}</ProjectGuid>
+			<ProjectVersion>12.0</ProjectVersion>
+			<MainSource>Projeto_SoftwareOficial_Final.dpr</MainSource>
+			<Config Condition="'$(Config)'==''">Debug</Config>
+			<DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Base' or '$(Base)'!=''">
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Release' or '$(Cfg_1)'!=''">
+			<Cfg_1>true</Cfg_1>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Debug' or '$(Cfg_2)'!=''">
+			<Cfg_2>true</Cfg_2>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Base)'!=''">
+			<DCC_DependencyCheckOutputName>bin\Projeto_SoftwareOficial_Final.exe</DCC_DependencyCheckOutputName>
+			<DCC_ImageBase>00400000</DCC_ImageBase>
+			<DCC_DcuOutput>.\forms</DCC_DcuOutput>
+			<DCC_UnitAlias>WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;$(DCC_UnitAlias)</DCC_UnitAlias>
+			<DCC_Platform>x86</DCC_Platform>
+			<DCC_ExeOutput>.\bin</DCC_ExeOutput>
+			<DCC_N>false</DCC_N>
+			<DCC_S>false</DCC_S>
+			<DCC_DcpOutput>.\dcu</DCC_DcpOutput>
+			<DCC_E>false</DCC_E>
+			<DCC_F>false</DCC_F>
+			<DCC_K>false</DCC_K>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_1)'!=''">
+			<DCC_LocalDebugSymbols>false</DCC_LocalDebugSymbols>
+			<DCC_Define>RELEASE;$(DCC_Define)</DCC_Define>
+			<DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+			<DCC_DebugInformation>false</DCC_DebugInformation>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_2)'!=''">
+			<DCC_Define>DEBUG;$(DCC_Define)</DCC_Define>
+		</PropertyGroup>
+		<ItemGroup>
+			<DelphiCompile Include="Projeto_SoftwareOficial_Final.dpr">
+				<MainSource>MainSource</MainSource>
+			</DelphiCompile>
+			<DCCReference Include="Forms\Fprincipal.pas">
+				<Form>Form_Principal</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Teoria Musical\F_Tm_Tons.pas">
+				<Form>F_TM_TSemit</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Teoria Musical\F_Tm_Alt.pas">
+				<Form>F_TM_Acidentes</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Teoria Musical\F_TM_andamento.pas">
+				<Form>FhistoricoMb</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Teoria Musical\F_Tm_Artic.pas">
+				<Form>F_TM_Articulações</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Teoria Musical\F_TM_compasso.pas">
+				<Form>F_tm_compass</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Teoria Musical\F_Tm_Enh.pas">
+				<Form>f_TM_Enhar</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Teoria Musical\F_TM_musica.pas">
+				<Form>f_Tm_music</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Teoria Musical\F_Tm_Notmus.pas">
+				<Form>F_tm_notmusic</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Teoria Musical\F_Tm_SinRep.pas">
+				<Form>F_Tm_SRep</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Teoria Musical\FTeoriaMusical.pas">
+				<Form>Form_TM</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Teoria Musical\F_Tm_Quialtera.pas">
+				<Form>F_Tm_Quialter</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Teoria Musical\F_Tm_Scrodia.pas">
+				<Form>F_Tm_Semitoncro</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Teoria Musical\F_Tm_SinDin.pas">
+				<Form>F_Tm_Sindinam</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Teoria Musical\F_Tm_SinCon.pas">
+				<Form>f_Tm_Sincontr</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Musicografia Braille\FMusicografiaBraille.pas">
+				<Form>F_MusB</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Histórico\F_historico.pas">
+				<Form>F_historico_Mb</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Cela Braile\FCelaBraille.pas">
+				<Form>Form_CB</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Musicografia Braille\F_Mub_Acd.pas">
+				<Form>F_musb_acdnt</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Musicografia Braille\F_Mub_AgrVal.pas">
+				<Form>F_musb_Agrpvalrs</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Musicografia Braille\F_Mub_And.pas">
+				<Form>F_musb_And</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Musicografia Braille\F_Mub_Comp.pas">
+				<Form>F_musb_compas</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Musicografia Braille\F_Mub_Notmus.pas">
+				<Form>F_mub_Notação</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Musicografia Braille\F_Mub_Orn.pas">
+				<Form>F_mub_ornamenta</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Musicografia Braille\F_Mub_Qui.pas">
+				<Form>F_mub_quialter</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Musicografia Braille\F_Mub_sinDin.pas">
+				<Form>F_Mub_sinaisrep</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Musicografia Braille\F_Mub_Sinrep.pas">
+				<Form>F_Mub_SinRepet</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Musicografia Braille\F_Mub_TPVF.pas">
+				<Form>Form_teclado</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Musicografia Braille\Form_Mub_Art.pas">
+				<Form>F_Mub_Art</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Cela Braile\FCB_ABraille.pas">
+				<Form>Form1</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Cela Braile\FCB_estrutura_CB.pas">
+				<Form>FCB_Estrutura</Form>
+			</DCCReference>
+			<DCCReference Include="Forms\Cela Braile\FCB_Num.pas">
+				<Form>FCB_Numeros</Form>
+			</DCCReference>
+			<BuildConfiguration Include="Base">
+				<Key>Base</Key>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Debug">
+				<Key>Cfg_2</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Release">
+				<Key>Cfg_1</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+		</ItemGroup>
+		<Import Project="$(BDS)\Bin\CodeGear.Delphi.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Delphi.Targets')"/>
+		<ProjectExtensions>
+			<Borland.Personality>Delphi.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Delphi.Personality>
+					<Parameters>
+						<Parameters Name="UseLauncher">False</Parameters>
+						<Parameters Name="LoadAllSymbols">True</Parameters>
+						<Parameters Name="LoadUnspecifiedSymbols">False</Parameters>
+					</Parameters>
+					<VersionInfo>
+						<VersionInfo Name="IncludeVerInfo">False</VersionInfo>
+						<VersionInfo Name="AutoIncBuild">False</VersionInfo>
+						<VersionInfo Name="MajorVer">1</VersionInfo>
+						<VersionInfo Name="MinorVer">0</VersionInfo>
+						<VersionInfo Name="Release">0</VersionInfo>
+						<VersionInfo Name="Build">0</VersionInfo>
+						<VersionInfo Name="Debug">False</VersionInfo>
+						<VersionInfo Name="PreRelease">False</VersionInfo>
+						<VersionInfo Name="Special">False</VersionInfo>
+						<VersionInfo Name="Private">False</VersionInfo>
+						<VersionInfo Name="DLL">False</VersionInfo>
+						<VersionInfo Name="Locale">1046</VersionInfo>
+						<VersionInfo Name="CodePage">1252</VersionInfo>
+					</VersionInfo>
+					<VersionInfoKeys>
+						<VersionInfoKeys Name="CompanyName"/>
+						<VersionInfoKeys Name="FileDescription"/>
+						<VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys>
+						<VersionInfoKeys Name="InternalName"/>
+						<VersionInfoKeys Name="LegalCopyright"/>
+						<VersionInfoKeys Name="LegalTrademarks"/>
+						<VersionInfoKeys Name="OriginalFilename"/>
+						<VersionInfoKeys Name="ProductName"/>
+						<VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys>
+						<VersionInfoKeys Name="Comments"/>
+					</VersionInfoKeys>
+					<Source>
+						<Source Name="MainSource">Projeto_SoftwareOficial_Final.dpr</Source>
+					</Source>
+				</Delphi.Personality>
+			</BorlandProject>
+			<ProjectFileVersion>12</ProjectFileVersion>
+		</ProjectExtensions>
+	</Project>

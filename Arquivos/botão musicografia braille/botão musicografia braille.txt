@@ -1,0 +1,17 @@
+>>>>>>>>>>>>>>>>>> Botão musicografia Braille <<<<<<<<<<<<<<<<<<<<<<
+
+ Agora que você já conhece a teoria musical, irá aprender como ler e 
+escrever a musicografia Braille.
+
+ >> Notação Musical e Duração ok
+ >> Compassos ok
+ >> Articulações ok
+ >> Sinais de Repetição ok
+ >> Sinais de Dinâmica ok
+ >> Andamentos ok
+ >> Quiáltera ok 
+ >> Acidentes ok 
+ >> Intervalos e Acordes ok
+ >> Agrupamento de valores ok
+ >> Teclado, Piano, Violão e Flauta ok 
+ >> Ornamentos ok 

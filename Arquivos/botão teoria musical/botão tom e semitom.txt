@@ -1,0 +1,38 @@
+>>>>>>>>>>>> Tons e Semitons Naturais <<<<<<<<<<<<<<<<
+
+ Semitom é o menor intervalo existente entre dois sons que o ouvido humano
+pode perceber e classificar. (TE)
+ Tom é o intervalo existente entre dois sons, formado por dois semitons. (TE)
+ Escala diatônica é a sucessão de 8 sons por graus conjuntos guardando, entre
+si, intervalos de tom ou de semitom. (TE)
+ Os tons e semitons contidos na escala diatônica são chamados de naturais.
+ A cada uma das notas da escala, de acordo com a sua função na própria escala,
+dá-se o nome de Grau.
+ A escala diatônica possui 8 graus, sendo o 8º a repetição do primeiro.
+ Os graus da escala são assim denominados:
+ I grau - tônica
+ II grau - supertônica
+ III grau - mediante
+ IV grau - subdominante
+ V grau - dominante
+ VI grau - super dominante
+ VII grau - sensível
+ VIII grau - tônica
+ O primeiro grau da escala é o mais importante. Todos os demais graus têm com
+ele afinidade absoluta.
+ É o grau quem dá seu nome à escala e quem a termina de um modo completo.
+ Depois da tônica, as notas de maior importância são a Dominante e a subdomi-
+nante.
+ Os graus podem ser conjuntos e disjuntos.
+ São conjuntos quando sucessivos de acordo com a sua relaçãp de altura.
+ São disjuntos quando entre ambos vem intercalado um ou mais graus.
+ 
+ Mudança de Tom
+ Em uma escala a mudança de tom é dada dessa forma:
+ De Dó para Ré sobe-se 1 tom
+ De Ré para Mi sobe-se 1 tom
+ De Mi para Fá sobe-se 1 semitom
+ De Fá para Sol sobe-se 1 tom
+ De Sol para Lá sobe-se 1 tom
+ De Lá para Si sobe-se 1 tom
+ De Si para Dó sobe-se 1 semitom

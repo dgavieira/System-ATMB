@@ -1,0 +1,25 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>Sinais de Dinâmica<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+ Pianíssimo: representado pelo sinal de palavra composto pelos pontos 3, 4 e 5, seguido por duas letras P.
+ 
+ Piano: Representado pelo sinal de palvra seguido pela letra P.
+ 
+ Mezzo Piano: Representado pelo sinal de palavra seguido pelas letras M e P.
+
+ Mezzo Forte: Representado pelo sinal de palavra seguido pelas letras M e F.
+
+ Forte: Representado pelo sinal de palavra seguido pela letra F.
+
+ Fortíssimo: Representado pelo sinal de palavra seguido por duas letras F.
+ 
+ Crescendo é o sinal de crescendo é representado pelo sinal de palavra seguido da letra C. O trecho a sofrer aumento gradativo termina com o sinal de palavra seguido de uma célula com os pontos 2 e 5. Também pode ser escrito com as letras A, U e M, precedidas do sinal de palavra.
+
+ Outra alternativa é escrever as letras C, R, E, S, C precedidas do sinal de letra e com um ponto após o C, ou apenas as letras C e R precedidas do sinal de palavra e com um ponto após o R.
+ 
+ Além dessas opções, pode-se representar com as letras R, I, N e F precedidad do sinal de letra e com um ponto após o F.
+
+ Diminuindo é representado pelo sinal de palavra seguido da letra De o final do trecho a ser executado com a diminuição gradativa, é representado pelo sinal de palavra seguido da letra D um ponto abaixo (pontos 2, 5 e 6).
+ 
+Também pode ser escrito com a palavra DIM precedida do sinal de palavra e com um ponto após a palavra. Ou pode ser escrita pela palavra DECRESC precedida do sinal de palavra e com um ponto após a palavra. Outra a alternativa é escrever a palavra SMORZ precedida pelo sinal de palavra e seguida por um ponto.
+ 
+ Observação: A primeira nota que aparecer após qualquer das expressões de Dinâmica deve estar com o seu sinal de oitava.

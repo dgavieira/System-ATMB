@@ -1,0 +1,76 @@
+>>>>>>>>>> Teclado, Piano, Violão e Flauta <<<<<<<<<
+ 
+ Dedilhado
+ São sinais para representar os dedos para tocar as no-
+tas. É empregada após a notas ou o sinal de intervalo
+que a representa.
+ Os sinais do Dedilhado são os seguintes:
+ Primeiro dedo (polegar) - ponto 1
+ Segundo dedo (indicador) - pontos 1 e 2
+ Terceiro dedo (médio) - pontos 1, 2 e 3
+ Quarto dedo (anular) - ponto 2
+ Quinto dedo (mínimo) - pontos 1 e 3.
+ Observação: Na música para o violão, o dedilhado da
+mão direita é diferente destes apresentados aqui.
+
+ Abreviaturas (teclado e piano)
+ Pedal - duas células; a primeira com os pontos 3 e 4,
+a segunda com os pontos 3, 4 e 5.
+ Mão direita - duas células; a primeira com os pontos
+4 e 6, a segunda com os pontos 3, 4 e 5.
+ Mão esquerda - duas células; a primeira com os pontos
+4, 5 e 6, a segunda com os pontos 3, 4 e 5.
+
+ Abreviaturas
+ Dedos da Mão direita para dedilhado
+ Tocar a corda com o polegar - duas células; a primei-
+ra com os pontos 1 e 6, a segunda com os pontos 1 e 3.
+ Tocar a corda com o indicador - duas células; a primei-
+ra com o ponto 4, a segunda com os pontos 1, 2 e 3.
+ Tocar a corda com o médio - duas células; a primeira
+ com o ponto 5, a segunda com os pontos 1, 2 e 3.
+ Tocar a corda com o anular - duas células; a primeira
+com os pontos 5 e 6, a segunda com os pontos 1, 2 e 3.
+
+ Cordas
+ Tocar na corda solta - pontos 1 e 3.
+ Tocar na corda primeira - duas células; a primeira com
+os pontos 1, 4 e 6, a segunda com o ponto 1.
+ Tocar na corda segunda - duas células; a primeira com
+os pontos 1, 4 e 6, a segunda com os ponto2 1 e 3.
+ Tocar na corda terceira - duas células; a primeira com
+os pontos 1, 4 e 6, a segunda com os pontos 1, 2 e 3.
+ Tocar na corda quarta - duas células; a primeira com
+os pontos 1, 4 e 6, a segunda com o ponto 2.
+ Tocar na corda quinta - duas células; a primeira com
+os pontos 1, 4 e 6, a segunda com os pontos 1 e 3.
+ Tocar na corda sexta - duas células; a primeira com
+os pontos 1, 4 e 6, a segunda com os pontos 2 e 3.
+
+ Trasto
+ Primeira casa - duas células; a primeira com os pontos
+3, 4 e 5, a segunda com os mesmos pontos: 3,4,5.
+ Segunda casa - duas células; a primeira com os pontos
+3, 4 e 5, a segunda com os pontos 3 e 4.
+ Terceira casa - duas células; a primeira com os pontos
+3, 4 e 5, a segunda com os pontos 3, 4 e 6.
+ Quarta casa - duas células; a primeira com os pontos
+3, 4 e 5, a segunda com os pontos 3, 4, 5 e 6.
+ Quinta casa - duas células; a primeira com os pontos
+3, 4 e 5, a segunda com os pontos 3 e 5.
+ Sexta casa - duas células; a primeira com os pontos
+3, 4 e 5, a segunda com os pontos 3, 5 e 6.
+
+ Posições para a flauta dó (soprano e tenor)
+ Polegar da mão direita - pontos 1, 2 e 3.
+ Indicador, médio, anular, e mínimo da mão esquerda - 
+três células; a primeira com os pontos 1, 2 e 3, as se-
+guintes também.
+ Indicador, médio, anular e mínimo da mão direira - qua-
+tro células; a primeira com os pontos 1, 2 e 3, as se-
+guintes também.
+ 
+ Legendas
+ Buraco fechado - pontos 1, 2 e 3
+ Buraco aberto - pontos 1 e 3
+ Buraco aberto na metade - ponto 2.

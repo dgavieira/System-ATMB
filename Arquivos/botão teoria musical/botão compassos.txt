@@ -1,0 +1,80 @@
+>>>> Botão Compassos <<<<
+ 
+ As figuras que representam os valores das notas têm duração inderminada,
+isto é, não têm valor fixo. Quem os determinará será uma fração ordinária
+esscrita após a clave e os acidentes fixos que é chamada de fórmula de
+compasso.
+ Compasso é a divisão da música em pequenas partes de duração igual ou
+variável.
+ Divisão em partes de duração igual: (reproduzir som)
+ Divisão em partes de duração variável: (reproduzir som)
+ Os compassos de dois tempos são chamados de binários.
+ Os compassos de três tempos são chamados de ternários.
+ Os compassos de quatro tempos são chamdos de quaternários.
+ Cada compasso é separado do seguinte por uma linha divisória vertical,
+chamada de travessão.
+ Na terminação de um trecho musical usa-se dois travessões denominados de
+travessão duplo. Se a terminação for absoluta, isto é, na finalização da
+música, os travessões são chamados de pausa final.
+ Em qualquer compasso, a figura que preenche um tempo chama-se unidade de
+tempo; a figura que preenche um compasso chama-se unidade de compasso.
+ Os compassos dividem-se em: simples e compostos.
+ 
+ Compassos Simples
+ Compassos simples são aqueles cuja unidade de tempo é representada por
+uma figura divisível por dois.
+ o numerador determina o número de tempos do compasso. Os algarismos que
+servem para numerador dos compassos simples são: 2 para binário, 3 para
+ternário e 4 para quaternário.
+ O denominador indica a figura que representa a unidade de tempo.
+ Os números de denominador são os seguintes:
+ 1 - Semibreve (unidade)
+ 2 - Mínima (metade da semibreve)
+ 4 - Semínima (4ª parte da semibreve)
+ 8 - Colcheia (8ª parte da semibreve)
+ 16 - Semicolcheia (16ª parte da semibreve)
+ 32 - Fusa (32ª parte da semibreve)
+ 64 - Semifusa (64ª parte da semibreve)
+ Um exemplo de compasso simples é o da fórmula 2/4. Nesta fração, o
+numerador 2 indica o número de tempos, então um binário. O denominador
+4 determina para a unidade de tempo a figura que representa a 4ª parte
+da semibreve, ou seja, a semínima.
+ Os compassos simples mais usados são aqueles cujas frações têm
+denominador 2,4 e 8.
+ 
+ Compasso Composto
+ Compasso composto é aquele em que a unidade de tempo é um valor composto,
+ou seja, tem um ponto de aumento e a quantidade de tempo é obtida pela
+divisão do numerador por 3.
+ O numerador desses compassos é 6, 9 ou 12; e o denominador indica a figura
+que ocupa um terço do tempo. Por exemplo, num compasso 6/8 a colcheia ocupa 
+um terço do tempo, uma vez que a unidade de tempo é ocupada por três
+colcheias ou uma semínima pontuada.
+  
+ Compassos Correspondentes
+ São os compassos simples e compostos que têm o mesmo número de tempos e a
+mesma unidade de tempo, porém no compasso simples a figura é simples e no
+composto, é pontuada.
+ Para converter um compasso simples em composto, multiplicamos o numerador
+por 3 e o denominador por 2. E de composto para simples, é a operação
+contrária.
+ 
+ Acentuação Métrica
+ Acentuação métrica constitui na execução dos tempos ora fortes, ora fracos.
+ Para analisarmos a acentuação métrica dos compassos, precisamos obedecer ao
+seguinte:
+ > Compasso binário simples: 1º tempo forte e 2º fraco (reproduzir som)
+ > Compasso ternário simples: 1º tempo forte, 2º e 3º fracos (reproduzir som)
+ > Compasso quaternário simples: 1º tempo forte, 2º,3º e 4 fracos (reproduzir
+ som)ou 1º tempo forte, 3º meio forte, 2º e 4º fracos (reproduzir som)
+ > Compasso quinário simples: 1º e 3 º tempos fortes, 2º, 4º e 5º fracos 
+(reproduzir som) ou 1º e 4º tempos fortes, 2º,3º e 5º fracos. (reproduzir som)
+ > Compasso setenário simples: 1º e 4º tempos fortes, 2º, 3º, 5º, 6º e 7º
+fracos (reproduzir som) ou 1º e 5º tempos forte, 2º, 3º, 4º, 6º e 7º fracos
+(reproduzir som).
+ Nos compassos compostos, como a divisão é ternária, a acentuação obedecerá,
+o primeiro tempo forte, 2º e 3º fracos.
+ 
+ Análise de compasso
+ Na análise de compassos, colocamos a unidade de tempo (UT), a de compasso (UC),
+o acento métrica, seu compasso correspondente e o nome do compasso.

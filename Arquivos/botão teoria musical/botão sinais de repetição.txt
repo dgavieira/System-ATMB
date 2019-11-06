@@ -1,0 +1,13 @@
+>>>>>>>>>>>> Sinais de Repetição <<<<<<<<<<<<<
+
+ Os principais sinais para determinar a repetição de um trecho de música são:
+ > Da Capo - Indica que se deve voltar ao início do trecho ou ao lugar em que
+se coloca D.C. É usado com a variante "Ao Segno", que indica que se deve
+voltar ao lugar onde se encontra o sinal Segno e terminar onde tiver a pala-
+vra fim. Ou com o sinal de salto, o qual manda pular o trecho que está entre
+os sinais de salto.
+ > Ritornello - Indica que o trecho deve ser executado duas vezes.
+ > 1ª e 2ª vez - Quando um trecho a se repetir não deve terminar perfeitamen-
+te igual na 2ª vez, usa-se colocar sobre os compassos, que deverão ser modi-
+ficados, as expressões 1ª e 2ª vez. 
+ 

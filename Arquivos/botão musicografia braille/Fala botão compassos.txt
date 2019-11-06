@@ -1,0 +1,18 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Compassos <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+ Em musicografia braille, os compassos são separados uns dos outros por uma célula em braco.
+ 
+ Fórmula de Compassos : Na partitura musical braille, os compassos são representados com algarismos colocados na parte superior e inferior do retângulo braille. Esses números são chamados de Fórmulas de Compassos.Em exemplo temos a fórmula 4 por 4 é escrita com três células braille da forma citada no texto a seguir:
+ 
+ a) primeiramente apresenta-se o sinal de número, indicado pelos pontos 3,4, 5 e 6. b) seguido pelo sinal que representa o número 4 indicado pelos pontos 1, 4 e 5. c) novamente o número 4, na parte inferior do retângulo braille, indicado pelos pontos 2, 5 e 6.
+ 
+ Essa fórmula quase sempre é representada também pela letra C maiúscula escrita por duas células, a primeira com o sinal de maiúsculo (pontos 4 e 6) e a segunda com a letra c (pontos 1 e 4).
+ 
+ Outra fórmula que pode ser escrita de outro modo além daquele com números é a do compasso 2 por 2 que pode ser representado pelo sinal c cortado o qual é escrito com duas células, a primeira com os pontos 4, 5 e 6; a segunda com os pontos 1 e 4.
+  
+ Barra dupla final é representada por duas células; a primeira com os pontos 1, 2 e 6, a segunda com os pontos 1 e 3.
+
+ Barra dupla parcial é representada por três células: a primeira com os pontos 1, 2 e 6, a segunda com pontos 1 e 3, a terceira com um ponto.
+
+ Ordem dos sinais antes das notas. 1 - Compasso. 2 - Sinal de palavra. 3 - Crescendo. 4 - Ponto de separação. 5 - staccato. 6 - Acidentes. 7 - Altura. 8 - Notas. 9 - Barra Final.
+ 

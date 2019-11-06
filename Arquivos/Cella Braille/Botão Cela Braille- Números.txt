@@ -1,0 +1,4 @@
+Os números usam a mesma lógica das letras no alfabeto Braille. Porém os números sempre
+serão introduzidos pelo simbolo de número.Abaixo temos um radio Button que mostra o símbolo
+de número. Isso implica dizer que, para formar um número em Braille é necessário usar mais
+de um simbolo Braille.

@@ -1,0 +1,29 @@
+>>>>>>>>>>>>>>>>>>>>>>Botão Andamento<<<<<<<<<<<<<<<<<<
+
+ Em musicografia Braille, como as notas musicais são escritas com os mesmos sinais das palavras e números, toda letra ou palavra é precedida pelo sinal de palavra e todo número é precedido pelo sinal de número.
+
+ Andamentos
+ 
+ Palavras que diminuem a velocidade: Allargando - representada pela palavra Allarg seguida de um ponto. Rallentando - representada pela palavra Rall seguida de um ponto. Ritardando - representada pela palavra Ritard seguida de um ponto.Ritenuto - representada pela palavra Riten seguida de um ponto.
+ 
+ Palavras que aumentam a velocidade: Accelerado - representado pela palavra Accel seguida de um ponto. Affretando - representado pela palavra Affret seguida de um ponto. Stringendo - representado pela palavra String seguida de um ponto.
+
+ Metrônomo
+ 
+ A indicação metronômica aparece junto da fórmula de compassos, antes do início do texto musical, representada da seguinte maneira: Uma célula de mínima seguida do sinal igual, depois o sinal de número e o número 60; quer dizer que são 60 mínimas por minuto.
+
+ Altura das Oitavas
+ 
+ As oitava são indicadas por uma célula braille anterior à primeira nota a ser executada nessa altura.
+ 
+ Primeira oitava - ponto 4.Segunda Oitava - pontos 4 e 5.Terceira oitava - pontos 4, 5 e 6.Quarta oitava - ponto 5.Quinta oitava - pontos 4 e 6.Sexta oitava - pontos 5 e 6.Sétima oitava - ponto 6.
+ 
+ Os sinais das oitavas das notas graves (Lá, Si) é o de primeira oitava colocada duas vezes antes dessas notas.
+
+ O sinal da oitava do Dó mais agudo é o de sétima oitava colocado duas vezes antes dessa nota.Abaixo da primeira oitava - pontos 4 e 4.Acima da sétima oitava - pontos 6 e 6.
+ 
+ Normas
+ 
+ Nenhum sinal deve ser colocado entre o sinal de oitava e a sua respectiva nota. A nota inicial de uma partitura musical ou de uma de suas divisões deve estar precedida do sinal da oitava. Quando duas notas estão distantes uma da outra por intervalos de segunda ou terça, a segunda nota não deve levar o sinal da oitava.
+ 
+ Quando duas notas estão distantes uma da outra por intervalos de quarta ou quinta, a segunda nota deve levar o sinal da oitava somente quando estiver fora da oitava a que pertence a sua anterior. Quando duas notas estão distantes uma da outra por intervalos de sexta ou maior que este, a segunda nota deve levar o sinal da oitava, esteja ela dentro ou não da oitava a que pertence a sua anterior.

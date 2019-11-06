@@ -1,0 +1,42 @@
+O próprio inventor do sistema BRaille, O Louis BRaille, transcreveu pela primeira vez
+uma partitura para o seu sistema baseado em pontos em relevo.O alfabeto BRaille permaneceu
+intacto desde a sua criação, mas a forma de escrever parituras através do Braille evoluiu
+bastante nos ultimos tempos, inclusive o proprio Louis Braille não fez um trabalho definitivo
+no ramo da Musicografia Braille, visto que ele mesmo modificou vàrios padrões da musicografia
+Braille durante a sua vida.
+
+Nas decadas que vieram depois do surgimento da musicografia Braille, os diferentes países da 
+Europa desenvolveram códigos musicográfico em Braille diferentes. O que dificultou bastante
+a tradução de composiçòes para o Braille entre os países.E a partir disso, ocorreram varios
+congressos com o objetivo de unificar esse sistema, até que o primeiro sistema unificado 
+saiu na alemanha em 1888.
+
+Os músicos cegos começaram a ganhar mais técnica, mais conhecimento musical e com o tempo,
+os sistema foi ficando obsoleto, e os musicos cegos foram notando a falta de simbolos importantes
+para a composição de músicas para o Braille.Foi então que se reuniu em 1929 ,nos estados unidos,
+um novo congresso para definir um novo segundo sistema.
+
+Porém, nesse congresso, numa confusão em sua conclusão, acabaram surgindo dois tratados diferentes
+para a musicografia BRaille.Isso gerou confusões nas trancrições entre os países novamente.
+Depois disso começam as guerras Mundiais. Nesse período o assunto Musicografia BRaille ficou
+de lado.
+
+Então em 1954,voltou-se a discutir o assunto da Musicografia BRaille, onde duas tendencias
+para o tratado começavam a aparecer.Um grupo queria mais clareza para os cegos, omitindo
+elementos secundários da partitura visual.O segundo queria total fidelidade da partitura
+com todos os elementos possíveis.Os defensores do segundo grupo eram na sua maioria deficientes
+visuais músicos que ensinavam alunos videntes e precisavam saber desses detalhes.
+
+Depois de inúmeros congressos, chegamos ao "Novo Manual de Musicografia Braille" feito na 
+inglaterra em 1996, onde o método escolhido para os composições foi o método de 
+Compasso sobre compasso, que será o método ensinado nesse software. Já existe uma tradução
+para o português do mesmo elaborada pela Unesco.
+
+O Sistema Braille é de extraordinária universalidade: pode exprimir as diferentes línguas e
+ escritas da Europa, Ásia e da África. Sua principal vantagem, todavia, reside no fato das
+ pessoas cegas poderem facilmente escrever por esse sistema, com o auxílio da reglete e do punção.
+
+O Sistema Braille permite uma forma de escrita eminentemente prática. A pessoa cega pode 
+satisfazer o seu desejo de comunicação. Abriu-lhe os caminhos de conhecimento literário, 
+científico e musical, permitiu-lhe, ainda, a possibilidade de manter uma correspondência
+ pessoal e ampliou também suas atividades profissionais.
